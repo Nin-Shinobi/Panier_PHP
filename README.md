@@ -97,5 +97,5 @@ Script de connexion à la base de données utilisé par toutes les pages PHP du 
 
 ---
 
-Auteur : hwilson.tech
+Auteur : [hwilson.tech](https://hwilson.tech)
 
