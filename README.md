@@ -1,5 +1,7 @@
 # Anon - eCommerce Website
 
+![alt Anon](image.png)
+
 Anon est un site de commerce électronique simple permettant aux utilisateurs de parcourir des produits, de les ajouter à leur panier et de consulter le contenu de leur panier. Ce projet utilise **PHP** et **MySQL** pour le backend, et **HTML/CSS** pour le frontend.
 
 ## Table des matières
@@ -97,5 +99,5 @@ Script de connexion à la base de données utilisé par toutes les pages PHP du 
 
 ---
 
-Auteur : [hwilson.tech](https://hwilson.tech)
+Auteur : hwilson.tech
 
